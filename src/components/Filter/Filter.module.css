@@ -1,0 +1,17 @@
+.filter {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+    align-items: center;
+}
+
+.filterLabel {
+    margin-bottom: 10px;
+}
+
+.filterInput {
+    width: 20%;
+    padding: 5px 0;
+    border: 2px solid black;
+    font-size: 12px;
+}

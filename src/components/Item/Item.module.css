@@ -1,0 +1,13 @@
+.contactListItemButton {
+    color: white;
+    background-color: red;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 5px;
+    margin-left: 10px;
+}
+
+.contactListItemButton:hover {
+    background-color: greenyellow;
+
+}
